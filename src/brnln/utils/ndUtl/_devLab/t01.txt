@@ -1,0 +1,16 @@
+//  這是註解
+/* 這也是註解 */
+//  以下是空白行
+    
+dir01(dir01Desc)
+    d1s1(sub01Desc/* just 註解*/)
+    d1s2(中文描述)
+dir02(dir02Desc)
+    d2s1 // no desc
+    d2s2() // no desc
+dir03(dir03Desc)
+    d3s1 // no desc
+        d3s1s1(test)
+            d3s1s1s1
+    d3s2 // no desc
+

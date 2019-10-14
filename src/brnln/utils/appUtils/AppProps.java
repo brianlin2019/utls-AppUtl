@@ -10,7 +10,7 @@ import java.util.Optional;
 import java.util.Properties;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
-// hi...2
+
 public class AppProps {
 
     private final Properties myProps;
